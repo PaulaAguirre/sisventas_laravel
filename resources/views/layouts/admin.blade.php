@@ -55,8 +55,7 @@
                             <li class="user-header">
 
                                 <p>
-                                    www.incanatoit.com - Desarrollando Software
-                                    <small>www.youtube.com/jcarlosad7</small>
+
                                 </p>
                             </li>
 
@@ -64,7 +63,8 @@
                             <li class="user-footer">
 
                                 <div class="pull-right">
-                                    <a href="#" class="btn btn-default btn-flat">Cerrar</a>
+                                    <a href="" class="btn btn-danger btn-flat">salir</a>
+                                    <a href="#" class="btn btn-primary btn-flat">X</a>
                                 </div>
                             </li>
                         </ul>

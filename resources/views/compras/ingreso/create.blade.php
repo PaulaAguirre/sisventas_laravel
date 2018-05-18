@@ -80,7 +80,7 @@
                 <div class="col-lg-2 col-sm-2 col-md-2 col-xs-12">
                     <div class="form-group">
                         <label for="precio_compra">Precio_compra</label>
-                        <input type="number" name="pprecio_compra" id="pprecio_compra" placeholder="P. Compra" class="form-control">
+                        <input type="number" name="pprecio_compra" id="pprecio_compra" placeholder="P. Compra" class="form-control text-right">
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-2 col-md-2 col-xs-12">
